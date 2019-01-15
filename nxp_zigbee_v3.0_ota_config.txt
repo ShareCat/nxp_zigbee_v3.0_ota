@@ -1,0 +1,3 @@
+ZigbeeNodeControlBridge_JN5169_COORDINATOR_38400_181026_v1.1.3.bin
+1.1.3
+# 第一行是zigbee固件的文件名，第二行是zigbee固件的版本，记住：不要更换顺序！更不要变换行号！！
